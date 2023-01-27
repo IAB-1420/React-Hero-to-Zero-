@@ -1,3 +1,7 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
+
 // javascript way
 const heading = document.createElement("h1");
 heading.innerHTML = "Namaste Everyone from Javascript";
